@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"> <h1 align="center"> Alexandru Andrei Colacel </h1> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alexandru Andrei Colacel</h1>
 
 
 I'm Alexandru. I'm a Computer Science student who is passionate about making open-source projects, creating technology to elevate people, and building community.
