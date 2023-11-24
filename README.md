@@ -6,7 +6,7 @@
 I'm Alexandru. I'm a Computer Science student who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
 - 🧞 I'm a Tech Enthusiast since childhood
-- 🌱 I’m currently learning Solidity and SCs
+- 🌱 I’m currently learning about IoT
 - 👯 I’m looking to collaborate with fascinating project
 - 📍 Rome
 - ⚡ Fun fact: Python is OOP
