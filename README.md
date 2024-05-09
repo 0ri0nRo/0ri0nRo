@@ -3,10 +3,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alexandru Andrei Colacel</h1>
 
 
-I'm Alexandru. I'm a Computer Science student who is passionate about making open-source projects, creating technology to elevate people, and building community.
+I'm Alexandru. I'm a Computer Scientist who is passionate about making open-source projects, creating technology to elevate people, and building community.
 
 - 🧞 I'm a Tech Enthusiast since childhood
-- 🌱 I’m currently learning about IoT
+- 🌱 I’m currently learning and work in IoT world
 - 👯 I’m looking to collaborate with fascinating project
 - 📍 Rome
 - ⚡ Fun fact: Python is OOP
