@@ -14,8 +14,9 @@ I’m a passionate computer science student with a keen interest in operating sy
 ## 💻 Languages & Technologies
 
 - **Languages:** Python, Java, C, SQL, Bash
-- **Tools:** Git, PostgreSQL, LaTeX
+- **Tools:** Git, PostgreSQL, LaTeX, Bitbucket, Bamboo, GitLab
 - **Frameworks:** (add any frameworks you use, e.g. Flask, Django, React)
+- **Cloud:** AWS
 
 ## 🔗 Find me on
 
