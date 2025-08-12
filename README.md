@@ -1,6 +1,6 @@
 # 👋 Hi, I’m 0ri0nRo
 
-I’m a passionate computer science student with a keen interest in operating systems, database design, and programming. I enjoy exploring new languages and technologies and sharing knowledge with the community.
+I am a computer scientist and cybersecurity student with a strong interest in operating systems, database design, and programming. I enjoy exploring new languages and technologies and sharing knowledge with the community.
 
 ## 📚 What I do
 
