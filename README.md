@@ -9,6 +9,7 @@ I am a computer scientist and cybersecurity student with a strong interest in op
 - 🔄 **Open Source Contributions**: I contribute to open source projects by improving documentation and fixing bugs.
 - 🚀 **Favorite Projects**:
   - [SmartHouse](https://github.com/0ri0nRo/SmartHouse) – A home automation system to control devices efficiently.
+  - [wealthfolio-budget](https://github.com/0ri0nRo/wealthfolio) - Self-hosted finance tracker with budget support.
   - [Chess AI](https://github.com/0ri0nRo/chess_vision) – An artificial intelligence engine to play chess.
 
 ## 💻 Languages & Technologies
